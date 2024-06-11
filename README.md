@@ -1,6 +1,3 @@
-#Hi, I am Anisha Silwal.
-
-
 # 💫 About Me:
 - 👋 Hi, I'm Anisha Silwal.
 
