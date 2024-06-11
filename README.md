@@ -2,7 +2,16 @@
 - 👋 Hi, I'm Anisha Silwal.
 
 
-- 🌱 I’m currently learning Python and JavaScript.  <br>  <br><br> - 👩🏻‍💻Studying Computer Engineering at United Technical College.  <br>  <br><br> - 💡Passionate and interested in acquiring new skills, exploring different subjects.  <br>  <br><br> - 📫 How to reach me?<br> anishasilwal66@gmail.com 
+- 🌱 I’m currently learning Python.
+
+
+- 👩🏻‍💻Studying Computer Engineering at United Technical College.
+
+
+- 💡Passionate and interested in acquiring new skills, exploring different subjects.
+  
+
+- 📫 How to reach me?<br> anishasilwal66@gmail.com 
 
 
 ## 🌐 Socials:
