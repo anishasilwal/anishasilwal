@@ -5,7 +5,7 @@
 - 🌱 I’m currently working as a Laravel Developer.
 
 
-- 👩🏻‍💻Studying Computer Engineering at United Technical College.
+- 👩🏻‍💻Studied Computer Engineering at United Technical College.
 
 
 - 💡Passionate and interested in acquiring new skills, exploring different subjects.
