@@ -2,10 +2,10 @@
 - 👋 Hi, I'm Anisha Silwal.
 
 
-- 🌱 I’m currently working as a Laravel Developer.
+- 🌱 I’m currently working as a Laravel Developer & exploring Python and Artificial Intelligence to enhance problem-solving and system design skills.
 
 
-- 👩🏻‍💻Studied Computer Engineering at United Technical College.
+- 👩🏻‍💻Studied Computer Engineering.
 
 
 - 💡Passionate and interested in acquiring new skills, exploring different subjects.
